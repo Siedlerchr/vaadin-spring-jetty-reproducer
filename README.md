@@ -1,7 +1,8 @@
-# My App
+# vaadin-spring-jetty-reproducer 
 
-This project can be used as a starting point to create your own Vaadin application with Spring Boot.
-It contains all the necessary configuration and some placeholder files to get you started.
+Vaadin 24.3 jetty 12.07 and spring boot 3.2 reproducer. 
+
+run package and start the jhr
 
 ## Running the application
 
