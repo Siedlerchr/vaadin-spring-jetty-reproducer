@@ -2,7 +2,8 @@
 
 Vaadin 24.3 jetty 12.07 and spring boot 3.2 reproducer. 
 
-run package and start the jhr
+run the maven package task and start the jar
+
 
 ## Running the application
 
